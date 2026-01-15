@@ -1,0 +1,19 @@
+# Core Data Science
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# ML Lifecycle
+mlflow>=2.6.0
+
+# API (Versões compatíveis com Pydantic v1)
+fastapi>=0.100.0
+uvicorn>=0.23.0
+# Forçamos a versão 1.10 para compatibilidade com o Evidently
+pydantic>=1.10.0,<2.0.0
+
+# Monitoring
+evidently==0.4.5
+
+# Testing
+pytest>=7.4.0

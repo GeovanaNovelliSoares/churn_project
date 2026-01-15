@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/genov/Documents/churn_project/mlruns/963669414768179637/models/m-185126e8af47403b89bcb67e2d84328f/artifacts
+creation_timestamp: 1768517209155
+experiment_id: '963669414768179637'
+last_updated_timestamp: 1768517219113
+model_id: m-185126e8af47403b89bcb67e2d84328f
+model_type: null
+name: churn_model_pipeline
+source_run_id: 9f62a1fdb22c4322b2fbecd4d3aa5b91
+status: 2
+status_message: null
